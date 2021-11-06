@@ -6,7 +6,7 @@
 
 - 🏆 I am a professional coach on League of Legends, you can check my achievements **[here](https://lol.fandom.com/wiki/Aries_(Gr%C3%A9goire_Biganzoli))**.
 
-- 💻 I'm a student in **1st year** at **Epitech Lyon**.
+- 💻 I'm a **1st year** student at **Epitech Lyon**.
 
 - 💎 I am a Graphic Designer (Photoshop/Illustrator), here are **[examples of my work](https://www.behance.net/arieslol)**.
 
