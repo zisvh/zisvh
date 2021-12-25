@@ -4,7 +4,7 @@
 
 ##  About Me
 
-- 🏆 I am a professional coach on League of Legends, you can check my achievements **[here](https://lol.fandom.com/wiki/Aries_(Gr%C3%A9goire_Biganzoli))**.
+- 🏆 I am a professional coach on League of Legends for Oplon in the LFL, you can check my achievements **[here](https://lol.fandom.com/wiki/Aries_(Gr%C3%A9goire_Biganzoli))**.
 
 - 💻 I'm a **1st year** student at **Epitech Lyon**.
 
