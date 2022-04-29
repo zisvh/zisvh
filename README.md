@@ -10,4 +10,4 @@
 
 - 💎 I am a Graphic Designer (Photoshop/Illustrator), here are **[examples of my work](https://www.behance.net/arieslol)**.
 
-- 🔒 I'm highly interested in Management (been managing teams for 2 years now) and in **React Native**.
+- 🔒 I'm highly interested in Management (been managing teams for 2 years now) and in languages like **React Native**, **React**, **C**, etc..
