@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Aries. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I'm a begginer, for now.</h3>
+<h1 align="center">Hi, I'm zisvh. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%"></h1>
 
 
 ##  About Me
