@@ -1,12 +1,7 @@
-<h1 align="center">Hi, I'm zisvh. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%"></h1>
+##  About
 
+I write code <a href="https://www.epitech.eu/">@epitech</a>. Follow me <a href="https://twitter.com/arieslol_">here</a>.
 
-##  About Me
+##  Stats
 
-- 🏆 I am a professional coach on League of Legends for Oplon in the LFL, you can check my achievements **[here](https://lol.fandom.com/wiki/Aries_(Gr%C3%A9goire_Biganzoli))**.
-
-- 💻 I'm a **2nd year** student at **Epitech Lyon**.
-
-- 💎 I am a Graphic Designer (Photoshop/Illustrator), here are **[examples of my work](https://www.behance.net/arieslol)**.
-
-- 🔒 I'm highly interested in Management (been managing teams for 2 years now) and in languages like **React Native**, **React**, **C**, etc..
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zisvh&count_private=true&theme=prussian)
