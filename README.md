@@ -1,6 +1,6 @@
 ##  About
 
-I write code <a href="https://www.epitech.eu/">@epitech</a>. Follow me <a href="https://twitter.com/arieslol_">here</a>.
+I write code <a href="https://www.sheepesports.com/">@sheepesports</a>. Follow me <a href="https://twitter.com/arieslol_">here</a>.
 
 ##  Stats
 
